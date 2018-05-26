@@ -1,6 +1,6 @@
-<samples>
+ï»¿<samples>
 <Teacher>
-	²“¡
+	ä½è—¤
 </Teacher>
 <17A00>
 
