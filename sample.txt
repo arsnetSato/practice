@@ -3,7 +3,7 @@
 	佐藤
 </Teacher>
 <17A00>
-	Sato
+	SatoMasayuki
 </17A00>
 <17A01>
 
