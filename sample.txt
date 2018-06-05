@@ -1,6 +1,6 @@
 ﻿<samples>
 <Teacher>
-	佐藤
+	佐藤!
 </Teacher>
 <17A00>
 	SatoMasayuki
